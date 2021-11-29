@@ -1,3 +1,9 @@
-# Template de páginas de aplicativos criados pela organização TecEDU FURB.
+# Programa_FURBOT
+Plataforma educacional para o desenvolvimento do pensamento computacional.
 
-Consiste num modelo padrão para a construção do site do aplicativo, sendo necessário apenas substituir ou adicionar os textos, imagens e links do respectivo app.
+[Git WebPages](https://tecedufurb.github.io/fubot/ "Git WebPages")  
+  
+[KanBan](https://github.com/dalton-reis/Furbot/projects/2 "Projeto")  
+  
+[Programa](https://github.com/dalton-reis/Furbot "Programa")  
+[projeto_Furbot_2019_784_NataliaSensWeise](https://github.com/dalton-reis/Furbot/tree/projeto_Furbot_2019_784_NataliaSensWeise "projeto_Furbot_2019_784_NataliaSensWeise")  
