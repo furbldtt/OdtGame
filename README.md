@@ -1,8 +1,8 @@
 # Programa_FURBOT
 Plataforma educacional para o desenvolvimento do pensamento computacional.
 
-[Página do Jogo (em desenvolvimento)](https://tecedufurb.github.io/fubot/)  
-[Jogo versão Web (em desenvolvimento)](https://tecedufurb.github.io/fubot/WebGL)  
+[Página do Jogo (em desenvolvimento)](https://tecedufurb.github.io/OdtGame/)  
+[Jogo versão Web (em desenvolvimento)](https://tecedufurb.github.io/OdtGame/WebGL)  
   
 [KanBan geral](https://github.com/dalton-reis/Furbot/projects/2 "Projeto")  
 
