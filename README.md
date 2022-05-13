@@ -8,5 +8,5 @@ Plataforma educacional para o desenvolvimento do pensamento computacional.
 
 ## Projeto 2019_784 - bolsista: NataliaSensWeise
 
-[projeto_Furbot_2019_784_NataliaSensWeise](https://github.com/dalton-reis/Furbot/tree/projeto_Furbot_2019_784_NataliaSensWeise "projeto_Furbot_2019_784_NataliaSensWeise")  
+[projeto_Furbot_2019_784_NataliaSensWeise](https://github.com/dalton-reis/projeto_OdtGamePrivado/tree/master/projeto_Furbot_2019_784_NataliaSensWeise "projeto_Furbot_2019_784_NataliaSensWeise")  
 [KanBan projeto_Furbot_2019_784_NataliaSensWeise](https://github.com/dalton-reis/Furbot/projects/1 "Projeto")  
